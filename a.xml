@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string 
+        name="tax.authority">Tax Authority</string>
+    <string 
+        name="tax.rate">Tax Rate</string>
+    <string 
+        name="tax.id">Tax ID</string>
+    <string 
+        name="taxable">Taxable</string>
+    <string 
+        name="tax.preference">Tax Preference</string>
+    <string 
+        name="tapreference">Tax Preference</string>
+    <string 
+        name="error.tax.exemption">Please Enter Tax Exemption</string>
+    <string 
+        name="error.tax.authority">Please Enter Tax Authority</string>
+        <string name="works well"></string>
+    <string 
+        name="EIN">EIN</string>
+    <string 
+        name="SSN">SSN</string>
+    <string 
+        name="ATIN">ATIN</string>
+    <string 
+        name="ITIN">ITIN</string>
+    <string
+        name="enable.sales.tax.title">Simplify associating taxes to customers!</string>
+    <string 
+        name="enable.sales.tax.desc">If you sell taxable products or services to customers at different parts of the country, then you must enable sales tax for associating tax rates with customers &amp; transactions.</string>
+    <string
+        name="enable.sales.tax">ENABLE SALES TAX</string>
+    <string
+        name="sales.tax">Sales Tax</string>
+    <string 
+        name="exemption.reason">Exemption Reason</string>
+</resources>
+<!-- $Id$ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
